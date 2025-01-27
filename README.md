@@ -1,4 +1,4 @@
 The objective of this analysis is to apply exploratory data analysis (EDA) techniques to identify key factors contributing to loan defaults within the banking and financial services industry. By examining a dataset that includes borrower demographics, financial history, and loan details, we aim to uncover patterns and correlations that can enhance risk assessment and decision-making processes. The ultimate goal is to generate actionable insights that financial institutions can use to optimize their lending strategies, reduce the risk of defaults, and improve overall profitability.
 Provided Datasets
-1. application_data.csv It contains all the information of the client at the time of application. The data is about whether a client has payment difficulties.
-2. 2. previous_application.csv It contains information about the client’s previous loan data. It contains the data whether the previous application had been Approved, Cancelled, Refused or Unused offer.
+1. Application_data.csv: It contains all the information of the client at the time of application. The data is about whether a client has payment difficulties.
+2. Previous_application.csv: It contains information about the client’s previous loan data. It contains the data whether the previous application had been Approved, Cancelled, Refused or Unused offer.
