@@ -1,5 +1,5 @@
-* Tool used- Python
-* Libraries:
+Tool used- Python
+Libraries:
 - NumPy: For numerical operations and array manipulations.
 - Pandas: For data manipulation and handling.
 - Matplotlib: For plotting and visualizing data.
@@ -12,12 +12,12 @@
 - StandardScaler: For standardizing features by removing the mean and scaling to unit variance.
 - GridSearchCV: For hyperparameter tuning by exhaustively searching through a grid of parameters.
 
-* Objective- The objective of this analysis is to apply exploratory data analysis (EDA) techniques to identify key factors contributing to loan defaults within the banking and financial services industry. By examining a dataset that includes borrower demographics, financial history, and loan details, we aim to uncover patterns and correlations that can enhance risk assessment and decision-making processes. The ultimate goal is to generate actionable insights that financial institutions can use to optimize their lending strategies, reduce the risk of defaults, and improve overall profitability.
+Objective- The objective of this analysis is to apply exploratory data analysis (EDA) techniques to identify key factors contributing to loan defaults within the banking and financial services industry. By examining a dataset that includes borrower demographics, financial history, and loan details, we aim to uncover patterns and correlations that can enhance risk assessment and decision-making processes. The ultimate goal is to generate actionable insights that financial institutions can use to optimize their lending strategies, reduce the risk of defaults, and improve overall profitability.
 Provided Datasets
 1. Application_data.csv: It contains all the information of the client at the time of application. The data is about whether a client has payment difficulties.
 2. Previous_application.csv: It contains information about the client’s previous loan data. It contains the data whether the previous application had been Approved, Cancelled, Refused or Unused offer.
 
-* Task1 - EDA 
+Task1 - EDA 
 In the Exploratory Data Analysis (EDA) the primary goal is to understand the dataset, uncover patterns, spot anomalies, and check assumptions before moving on to more complex modeling. 
 1. Data Loading and Overview:
 - The dataset is loaded using Pandas (e.g., pd.read_csv() for CSV files). We inspect the dataset using methods like head(), info(), and describe() to understand its structure, types of data, and basic summary statistics.
@@ -34,7 +34,7 @@ In the Exploratory Data Analysis (EDA) the primary goal is to understand the dat
 7. Visualization:
 - Matplotlib and Seaborn are often used to create plots that provide visual insights, helping to understand trends, distributions, and correlations more intuitively.
 
-* Task2- Predictive modelling
+Task2- Predictive modelling
 1. The goal of predictive model is to build a range of models to compare performance, identify strengths, and determine the most effective approach for predicting loan defaults.
 2. Model building steps include: Data Processing, Feature Engineering, Dimensionality Reduction, Handling Imbalance Data, Algorithm Selection
 3. Models Prepared:
