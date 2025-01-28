@@ -1,5 +1,6 @@
 Tool used- Python
-Libraries:
+
+Libraries used :
 - NumPy: For numerical operations and array manipulations.
 - Pandas: For data manipulation and handling.
 - Matplotlib: For plotting and visualizing data.
